@@ -32,8 +32,8 @@ See hover and focus states for all interactive elements on the page
 
 ### Solutions
 
-- Solution URL: [Click]()
-- Live Site URL: [Click]()
+- Solution URL: [Click](https://www.frontendmentor.io/solutions/faq-accordion-main-NGLtWzhxgk)
+- Live Site URL: [Click](https://rubchenkoartem.github.io/faq-accordion-main-frontendmentor/)
 
 ## My process
 
