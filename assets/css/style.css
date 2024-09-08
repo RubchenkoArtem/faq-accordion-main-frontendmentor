@@ -90,6 +90,6 @@ button:hover {
 
 @media (max-width: 540px) {
     body {
-        background-color: url(../assets/images/background-pattern-mobile.svg);
+        background-color: url(../../assets/images/background-pattern-mobile.svg);
     }
 }
